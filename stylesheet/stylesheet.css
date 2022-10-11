@@ -55,10 +55,29 @@ ul > li:first-child:first-letter{
     background-color: yellow;
 } */
 
-img{
+/* 4rd exercise */
+/* img{
     float: left;
-    /* background-color: red; */
-}
-.below{
+    background-color: red;
+} */
+/* .below{
     clear:left;
+} */
+
+.target{
+    width: 50px;
+    height: 50px;
+    background-color: forestgreen;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+/* div .target{
+    position: fixed;
+    top: 0%;
+    right: 0%;
+} */
+.container{
+    border: 2px gray solid;
+    position: relative;
 }
