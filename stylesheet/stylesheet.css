@@ -36,7 +36,8 @@ ul > li a:first-child::first-letter{
     font-style: bold;
 } */
 
-a:link{
+/* 2nd exercise */
+/* a:link{
     color: green;
 }
 li a:visited{
@@ -47,9 +48,17 @@ li a:hover{
 }
 ul > li:first-child:first-letter{
     /* font-style: bold; */
-    font-weight: bold;
+    /* font-weight: bold;
     font-size: 120%;
-}
-[title~="BCIT"]{
+} */ 
+/* [title~="BCIT"]{
     background-color: yellow;
+} */
+
+img{
+    float: left;
+    /* background-color: red; */
+}
+.below{
+    clear:left;
 }
