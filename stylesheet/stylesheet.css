@@ -50,6 +50,6 @@ ul > li:first-child:first-letter{
     font-weight: bold;
     font-size: 120%;
 }
-[title~="BCIT homepage"]{
+[title~="BCIT"]{
     background-color: yellow;
 }
